@@ -1,3 +1,3 @@
 # hospitalmanagement-repo
 hospital management repository 
-using django,html css
+using django,html css. 
